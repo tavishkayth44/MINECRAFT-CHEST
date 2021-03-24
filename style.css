@@ -1,0 +1,27 @@
+body {
+ text-align:center;
+  background:linear-gradient(#008080 0%,#03fc8c 100%);
+  background-repeat:no-repeat;
+}
+
+#img1 {
+height:300px;
+width:500px;
+border-radius:100;   
+}
+
+#hr1 {
+height:5px;
+background-color:black;
+border-color:black;  
+}
+
+#par1 {
+font-size:25px;
+font-family:monospace;  
+}
+
+#h1 {
+font-size:35px; 
+font-family:impact;  
+}
